@@ -1,2 +1,2 @@
 # An AI-Powered Writing Assistant Platform: Elevating Writing Efficiency and Proficiency
-The Official Implementation of WWWW'24 Submission: An AI-Powered Writing Assistant Platform: Elevating Writing Efficiency and Proficiency
+The Official Implementation of WWW'24 Submission: An AI-Powered Writing Assistant Platform: Elevating Writing Efficiency and Proficiency
